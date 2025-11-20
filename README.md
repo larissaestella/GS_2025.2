@@ -42,7 +42,7 @@ GS/
   ├── components/
   │   ├── Avatar.tsx
   │   ├── XPBar.tsx
-  │   ├── CustomDrawer.tsx
+  │   └── CustomDrawer.tsx
   ├── data/
   │   └── trails.ts
   ├── screens/
@@ -60,9 +60,9 @@ GS/
   │   ├── TrailsScreen.tsx
   │   └── TrailDetailScreen.tsx
   ├── utils/
-  │   └── db.ts
-  │   ├── types.ts              
-  │   ├── style/
+  │   ├── db.ts
+  │   └── types.ts              
+  ├── style/
   │   ├── palette.ts
   │   └── styles.ts
   │
