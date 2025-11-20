@@ -12,6 +12,17 @@ Plataforma Digital Gamificada — Global Solution
 
 ---
 
+## **Links do Projeto**
+
+**Snack Expo:**
+[[https://snack.expo.dev/@larissaestella/gs](https://snack.expo.dev/@larissaestella/gs)]
+
+---
+
+Se quiser adicionar também QR Code, link para GitHub ou vídeo de demonstração, posso gerar!
+
+---
+
 ## **Visão Geral**
 
 **SkillUpPlus 2030+** é uma plataforma móvel desenvolvida em **React Native + Expo**, com foco em:
